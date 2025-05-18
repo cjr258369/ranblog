@@ -12,7 +12,7 @@ baseurl: "/ranblog"         # for example, '/blog' if your blog hosted on 'host/
 RSS: false
 #weibo_username:     SteveJack
 #zhihu_username:     SteveJack
-github_username:    SteveJack
+github_username:    cjr258369
 #twitter_username:  SteveJack
 #facebook_username:  SteveJack
 
@@ -56,7 +56,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，看看产品。世界那么大，多玩玩多看看。"
-sidebar-avatar: img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-ran.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
@@ -66,7 +66,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Baidu",
-        href: "http://www.baidu.com.me"
+        href: "http://www.baidu.com"
     },
     {
         title: "It helps SEO",
